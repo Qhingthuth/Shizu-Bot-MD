@@ -8,16 +8,16 @@ import axios from 'axios'
 import moment from 'moment-timezone'
 
 global.owner = [
-  ['923470027813', '👑 Ahmad Ali - Creador 👑', true],
-  ['19294515952']
+  ['2349038303472', '👑 𝙿𝚛𝚒𝚗𝚌𝚎 𝚠𝚊𝚕𝚎𝚡- Creador 👑', true],
+  ['2349022424808']
 ] 
-global.suittag = ['923470027813'] 
-global.prems = ['923470027813','19294515952'] 
+global.suittag = ['2349038303472'] 
+global.prems = ['2349038303472','2349038303472'] 
 
-global.packname = 'x_Ikratos_x'
-global.author = '⍟Ahmad » Ali⍟'
-global.wm = '⍟Ahmad » Ali⍟ V5.3'
-global.igfg = '⍟Ahmad » Ali⍟'
+global.packname = 'x_𝚆𝚊𝚕𝚎𝚡_x'
+global.author = '⍟𝙿𝚛𝚒𝚗𝚌𝚎 » 𝚆𝙰𝚕𝚎𝚡⍟'
+global.wm = '⍟𝙿𝚛𝚒𝚗𝚌𝚎 » 𝚆𝚊𝚕𝚎𝚡⍟ V5.3'
+global.igfg = '⍟𝙿𝚛𝚒𝚗𝚌𝚎 » 𝚆𝚊𝚕𝚎𝚡⍟'
 global.wait = '*[❗] Wait, Processing...*'
 
 global.keysZens = ['fiktod', 'c2459db922', 'BF39D349845E', '675e34de8a', '37CC845916', '0b917b905e6f', '6fb0eff124']
@@ -459,8 +459,8 @@ global.htki = '*⭑•̩̩͙⊱•••• ☪*'
 global.htka = '*☪ ••••̩̩͙⊰•⭑*'
 global.comienzo = '• • ◕◕════'
 global.fin = '════◕◕ • •'
-global.botdate = `⫹⫺ Date :  ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}` //Asia/Jakarta
-global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('America/Los_Angeles').format('HH:mm:ss')}`//America/Los_Angeles
+global.botdate = `⫹⫺ Date :  ${moment.tz('Africa/Lagos').format('DD/MM/YY')}` //Africa/Lagos
+global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Africa/Lagos').format('HH:mm:ss')}`//Africa/Lagos
 global.fgif = {key: { participant : '0@s.whatsapp.net'}, message: { "videoMessage": { "title": wm, "h": `Hmm`, 'seconds': '999999999',  'gifPlayback': 'true',  'caption': bottime, 'jpegThumbnail': fs.readFileSync('./Menu2.jpg')}}}
 global.multiplier = 99
 /*************************/
